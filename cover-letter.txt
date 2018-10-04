@@ -1,2 +1,5 @@
 Excited to work with new technologies like React, Webpack, and GraphQL. Love Javascript ES6. Looking forward to join an amazing team of fellow developers that will contribute to my proffesional development as well as the company's success. 
-For more info visit my Youtube Channel: Waldo-the-developer, visit my website: waldothedeveloper.com, check out my projects on github or netlify, and read my articles on linkedin or medium. 
+
+For more info visit my Youtube Channel: Waldo-the-developer, Visit my website: waldothedeveloper.com
+Check out my projects on github and see them deployed live on Netlify.
+Read my articles on linkedin or medium:  https://medium.com@w86compositor
